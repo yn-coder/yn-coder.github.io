@@ -39,3 +39,7 @@ Used stack
 * [Delphi](https://www.embarcadero.com/ru/products/delphi) - RAD
 
 # GitHub repos
+
+[Some Git scripts](https://github.com/yn-coder/git_scripts)
+
+* git_chain - example git script contain solution for how to handle with remoted isolated work copy.
