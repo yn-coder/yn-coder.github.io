@@ -33,4 +33,9 @@ Used stack
 [Version Control for engineers](http://soft.postpdm.com/) - collaboration tool for engineers, scientist and designers.
 [CAD diff](http://soft.postpdm.com/cad_diff.html) - freeware Windows utility for CAD documents visual comparison.
 
+Used stack
+
+* [Apache Subversion (SVN)](https://subversion.apache.org/) - version control engine
+* [Delphi](https://www.embarcadero.com/ru/products/delphi) - RAD
+
 # GitHub repos
