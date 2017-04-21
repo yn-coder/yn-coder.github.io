@@ -53,6 +53,4 @@ Used stack
 
 * git_chain - example git script contain solution for how to handle with remoted isolated work copy.
 
-# Awesome VCS tools
-
 [Awesome VCS tools](https://github.com/postpdm/awesome-vcs-tools) - a curated list of awesome Version control tools - clients, diffs etc.
