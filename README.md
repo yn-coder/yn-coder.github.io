@@ -20,7 +20,7 @@ Used stack
 
 ## BestStack
 
-[BestStack](http://www.beststack.org). This site is intended to be a good place to choose right technology stack, language, library or framework, best suited for your need. Comparison is based on Goals classification. All data is comunity driven (and You!).
+[BestStack](http://www.beststack.org). This site is intended to be a good place to choose right technology stack, language, library or framework, best suited for your need. Comparison is based on Goals classification. All data is comunity driven.
 
 Used stack
 
