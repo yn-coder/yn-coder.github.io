@@ -38,8 +38,19 @@ Used stack
 * [Apache Subversion (SVN)](https://subversion.apache.org/) - version control engine
 * [Delphi](https://www.embarcadero.com/ru/products/delphi) - RAD
 
+## EarthSciPy
+
+[EarthSciPy](https://github.com/postpdm/EarthSciPy) - Python library for Earth science (main in geology and petro science).
+
+Used stack
+* [Python 3](https://www.python.org/) - programming language
+
 # GitHub repos
 
 [Some Git scripts](https://github.com/yn-coder/git_scripts)
 
 * git_chain - example git script contain solution for how to handle with remoted isolated work copy.
+
+# Awesome VCS tools
+
+[Awesome VCS tools](https://github.com/postpdm/awesome-vcs-tools) - a curated list of awesome Version control tools - clients, diffs etc.
