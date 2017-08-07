@@ -1,5 +1,5 @@
 [
-["cid=5511975034435<br>imei=357636063684860<br>2017-08-07 13:57:43<br><a href='http://maps.google.com/maps?q=-21.198389,-41.913632' target='_BLANK' title='Google Maps'>Google Maps</a>", -21.198389, -41.913632, "redmarker.png", 1],
+["cid=5511975034435<br>imei=357636063684860<br>2017-08-07 13:57:43<br><a href='http://maps.google.com/maps?q=-26.198389,-40.913632' target='_BLANK' title='Google Maps'>Google Maps</a>", -26.198389, -40.913632, "redmarker.png", 1],
 
 ["cid=5511995663840<br>imei=357636062222310<br>2017-08-07 12:43:17<br><a href='http://maps.google.com/maps?q=-13.004046,-38.458964' target='_BLANK' title='Google Maps'>Google Maps</a>", -13.004046, -38.458964, "greenmarker.png", 2],
 
