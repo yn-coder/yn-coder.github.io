@@ -47,6 +47,13 @@ Used stack
 Used stack
 * [Python 3](https://www.python.org/) - programming language
 
+
+# PortableWinPy
+
+Portable Windows package for Python web development and testing
+
+[PortableWinPy](https://github.com/yn-coder/PortableWinPy)
+
 # GitHub repos
 
 [Some Git scripts](https://github.com/yn-coder/git_scripts)
