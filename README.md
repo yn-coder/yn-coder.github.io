@@ -62,4 +62,4 @@ Portable Windows package for Python web development and testing
 
 [Awesome VCS tools](https://github.com/postpdm/awesome-vcs-tools) - a curated list of awesome Version control tools - clients, diffs etc.
 
-* [Awesome Jupyter and IPython](https://github.com/postpdm/awesome-jupyter) -  a curated list of awesome Jupyter and IPython links
+[Awesome Jupyter and IPython](https://github.com/postpdm/awesome-jupyter) -  a curated list of awesome Jupyter and IPython links
